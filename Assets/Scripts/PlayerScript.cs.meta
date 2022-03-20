@@ -3,7 +3,15 @@ guid: 33ed1c5f06c95c74c8cd02dd09fda40b
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - winTextObject: {instanceID: 0}
+  - loseTextObject: {instanceID: 0}
+  - livesText: {instanceID: 0}
+  - musicSource: {instanceID: 0}
+  - musicClip1: {fileID: 8300000, guid: 2d99fac5349838740a1029dcca54f367, type: 3}
+  - musicClip2: {fileID: 8300000, guid: b8b87d67f70fc6749a51fae9d6be2395, type: 3}
+  - groundcheck: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
